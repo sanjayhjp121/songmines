@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,700|Lora:400,700);
+
+.nk-title,
+.nk-title-back {
+    text-transform: uppercase;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.nk-mega-item > .dropdown > ul li > label,
+.nk-carousel .nk-carousel-prev .nk-carousel-arrow-name,
+.nk-carousel .nk-carousel-next .nk-carousel-arrow-name,
+.nk-carousel-3 .nk-carousel-prev .nk-carousel-arrow-name,
+.nk-carousel-3 .nk-carousel-next .nk-carousel-arrow-name,
+.nk-countdown > div > span,
+.nk-counter .nk-count,
+.nk-counter-2 .nk-count,
+.nk-counter-3 .nk-count,
+.nk-dropcap-3,
+.nk-pricing-1 .nk-pricing-price,
+.nk-pricing-2 .nk-pricing-price,
+.nk-pricing-3 .nk-pricing-price,
+.nk-progress .nk-progress-title,
+.nk-page-nav-3 .nk-page-nav-title {
+    font-family: 'Merriweather', serif;
+}
+
+body,
+.nk-sub-title,
+.nk-counter-3 .nk-counter-title,
+.nk-pricing-2 .nk-pricing-currency,
+.nk-pricing-2 .nk-pricing-period,
+.nk-pricing-3 .nk-pricing-currency,
+.nk-pricing-3 .nk-pricing-period {
+    font-family: 'Lora', sans-serif;
+}
